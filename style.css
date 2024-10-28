@@ -24,7 +24,7 @@ section{
     background: #80ac7b;
 }
 img{ /*gambar iphone*/
-    width:80%;
+    width:100%;
 }
 header{ /*navbar header*/
     position: fixed;
