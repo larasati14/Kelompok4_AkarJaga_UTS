@@ -54,5 +54,7 @@ Halaman Web yang dapat Anda Lihat:
    - Anda akan diarahkan ke halaman footer yang berisikan sosial media AkarJaga.
 
 ## 🌐Cara mengakses Website AkarJaga melalui Mobile
+### Akses link berikut: https://larasati14.github.io/Kelompok4_AkarJaga_UTS/
+Link di atas dapat anda akses melalui tampilan mobile, fungsi dari setiap menu pada navigasi bar yang ada di tampilan mobile sama dengan navigasi bar yang ada di tampilan desktop. Perbedaan yang terlihat hanya letak dari setiap elemen pada website saja yang berubah, elemen yang bertambah hanya tombol menu yang berada pada ujung kanan atas. Tombol menu tersebut hanya muncul pada tampilan mobile saja.
 
      
