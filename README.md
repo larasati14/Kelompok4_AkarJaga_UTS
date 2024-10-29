@@ -33,6 +33,8 @@ Klik link di atas untuk mengarahkan Anda ke Web
    - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
 
+---
+
 ## 🌐Cara mengakses Website AkarJaga melalui Desktop
 
 ### 1. Melihat halaman utama 'Home'
