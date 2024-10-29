@@ -12,7 +12,7 @@ Halaman Web yang dapat Anda Lihat:
 ## 📍 Struktur dan Penjelasan Proyek
 
 ### 1. Struktur HTML
-   Struktur HTML yang digunakan pada website ini dirancang sederhana dengan elemen-elemen utama berikut untuk memastikan keterbacaan dan aksesibilitas yang baik:
+   Struktur HTML yang digunakan pada website ini dirancang sederhana dengan elemen-elemen utama berikut:
 
    - **Header**: Berisi navigasi utama dengan tautan ke bagian **Beranda**, **Daftar Tanaman**, **Komunitas**, **Tentang Kami**, dan **Kontak**.
    - **Main Content**:
@@ -28,6 +28,6 @@ Halaman Web yang dapat Anda Lihat:
 
    - **Warna**: Mengguanakn warna yang lebut dan aesthetic untuk meningkatkan keindahan, terdapat 4 warna yaitu main              color:#80ac7b, second-color:#212529, third-color:#f3f4f4, dan fourth-color:#ECE3D0
    - **Tipografi**: Menggunakan font style Poppins untuk meningkatkan estetika dalam Landing Page Akarjaga.
-   - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih dinamis.
+   - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
 a 
