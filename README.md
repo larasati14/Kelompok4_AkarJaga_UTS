@@ -27,7 +27,32 @@ Halaman Web yang dapat Anda Lihat:
    CSS digunakan untuk memperindah tampilan halaman web dengan desain modern. Beberapa teknik utama yang diterapkan meliputi:
 
    - **Warna**: Mengguanakn warna yang lebut dan aesthetic untuk meningkatkan keindahan, terdapat 4 warna yaitu main-color:#80ac7b, second-color:#212529, third-color:#f3f4f4, dan fourth-color:#ECE3D0
-   - **Tipografi**: Menggunakan font style Poppins untuk meningkatkan estetika dalam Landing Page Akarjaga.
+   - **Tipografi**: Menggunakan font style Poppins dengan 'weight: 200-700' untuk meningkatkan estetika dalam Landing Page Akarjaga.
    - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
-a 
+
+## 🌐Cara mengakses Website AkarJaga melalui Desktop
+
+### 1. Melihat halaman utama 'Home'
+   - Anda dapat mengakses link berikut: https://larasati14.github.io/Kelompok4_AkarJaga_UTS/
+   - Anda akan diarahkan ke halaman utama website tersebut yaitu home.
+   - Pada home, anda dapat melihat deskripsi singkat mengenai AkarJaga serta tampilan UI/UX dari halaman awal antarmuka AkarJaga.
+   - Anda dapat memencet tombol "Join Now" yang nantinya akan mengarahkan anda pada prototype AkarJaga.
+### 2. Melihat halaman 'Daftar Tanaman'
+   - Klik 'Daftar Tanaman' pada bagian Navigasi Bar
+   - Pada halaman ini anda dapat membaca deskripsi singkat mengenai beberapa flora yang banyak dicari oleh pengguna AkarJaga.
+   - Anda dapat mengklik tombol 'Baca Artikel' dan anda akan diarahkan ke halaman website lain yang berisikan artikel terkait dengan gambar dan deskripsi.
+### 3. Melihat halaman 'Community'
+   - Klik 'Community' pada bagian Navigasi Bar
+   - Pada halaman ini anda dapat membaca deskripsi singkat dari salah satu fitur yang ada di AkarJaga berupa 'komunitas'
+   - Tombol 'Join Now' akan mengarahkan anda ada halaman prototype dari antarmuka AkarJaga
+### 4. Halaman 'About Us'
+   - Klik 'About Us' pada bagian Navigasi Bar
+   - Anda akan diarahkan ke halaman 'About Us' yang berisikan tentang pengertian dari AkarJaga serta penjabaran beberapa fitur utama yang ditawarkan pada pengguna yang fungsinya untuk menarik minat calon-calon pengguna baru.
+### 5. Halaman 'Contact'
+   - Klik 'Contact' pada bagian Navigasi Bar
+   - Anda akan diarahkan ke halaman footer yang berisikan sosial media AkarJaga.
+
+## 🌐Cara mengakses Website AkarJaga melalui Mobile
+
+     
