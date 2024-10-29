@@ -30,6 +30,7 @@ Halaman Web yang dapat Anda Lihat:
    - **Tipografi**: Menggunakan font style Poppins dengan 'weight: 200-700' untuk meningkatkan estetika dalam Landing Page Akarjaga.
    - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
+---
 
 ## 🌐Cara mengakses Website AkarJaga melalui Desktop
 
