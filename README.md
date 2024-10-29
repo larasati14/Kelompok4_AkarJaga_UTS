@@ -5,7 +5,7 @@ AkarJaga adalah sebuah landing page yang memiliki fitur utama di web adalah Bera
 
 ## 💻 Halaman Web:
 Halaman Web yang dapat Anda Lihat:
-- *https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+*https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
 
 ---
 
