@@ -1,6 +1,6 @@
 # 🌐 Landing Page AkarJaga
 
-## 📜 Deskripsi 
+## 🗒️ Deskripsi 
 AkarJaga adalah sebuah landing page yang memiliki fitur utama di web adalah Beranda, Daftar Tanaman, Komunitas, Tentang Kami dan Kontak. Landing Page AkarJaga ini bertujuan untuk memperkenalkan AkarJaga sebagai ensiklopedia flora Indonesia, menarik minat pengguna untuk mengeksplorasi lebih jauh, dan memberikan akses mudah ke informasi penting tentang flora Indonesia juga menjadi sumber pengetahuan bagi masyarakat umum, siswa, peneliti, dan pecinta alam yang ingin mempelajari flora lokal. Target pasar AkarJaga meliputi siswa, mahasiswa, peneliti, guru, pecinta alam, serta masyarakat umum yang tertarik pada flora dan lingkungan. Platform ini juga menyasar institusi pendidikan, komunitas lingkungan, dan organisasi yang berfokus pada konservasi alam yang membutuhkan akses informasi mengenai flora Indonesia secara digital dan mudah diakses.
 
 ## 💻 Halaman Web
