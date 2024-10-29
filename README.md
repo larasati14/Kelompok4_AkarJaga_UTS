@@ -26,7 +26,7 @@ Halaman Web yang dapat Anda Lihat:
 ### 2. Desain CSS
    CSS digunakan untuk memperindah tampilan halaman web dengan desain modern. Beberapa teknik utama yang diterapkan meliputi:
 
-   - **Warna**: Mengguanakn warna yang lebut dan aesthetic untuk meningkatkan keindahan, terdapat 4 warna yaitu main              color:#80ac7b, second-color:#212529, third-color:#f3f4f4, dan fourth-color:#ECE3D0
+   - **Warna**: Mengguanakn warna yang lebut dan aesthetic untuk meningkatkan keindahan, terdapat 4 warna yaitu main-color:#80ac7b, second-color:#212529, third-color:#f3f4f4, dan fourth-color:#ECE3D0
    - **Tipografi**: Menggunakan font style Poppins untuk meningkatkan estetika dalam Landing Page Akarjaga.
    - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
