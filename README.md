@@ -3,9 +3,11 @@
 ## 📜 Deskripsi 
 AkarJaga adalah sebuah landing page yang memiliki fitur utama di web adalah Beranda, Daftar Tanaman, Komunitas, Tentang Kami dan Kontak. Landing Page AkarJaga ini bertujuan untuk memperkenalkan AkarJaga sebagai ensiklopedia flora Indonesia, menarik minat pengguna untuk mengeksplorasi lebih jauh, dan memberikan akses mudah ke informasi penting tentang flora Indonesia juga menjadi sumber pengetahuan bagi masyarakat umum, siswa, peneliti, dan pecinta alam yang ingin mempelajari flora lokal. Target pasar AkarJaga meliputi siswa, mahasiswa, peneliti, guru, pecinta alam, serta masyarakat umum yang tertarik pada flora dan lingkungan. Platform ini juga menyasar institusi pendidikan, komunitas lingkungan, dan organisasi yang berfokus pada konservasi alam yang membutuhkan akses informasi mengenai flora Indonesia secara digital dan mudah diakses.
 
-## 💻 Halaman Web:
+## 💻 Halaman Web
 Halaman Web yang dapat Anda Lihat:
-*https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+- *https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+
+Klik link di atas untuk mengarahkan Anda ke Web
 
 ---
 
@@ -30,7 +32,6 @@ Halaman Web yang dapat Anda Lihat:
    - **Tipografi**: Menggunakan font style Poppins dengan 'weight: 200-700' untuk meningkatkan estetika dalam Landing Page Akarjaga.
    - **Animasi & Hover Effects**: Efek hover pada tombol navbar dan elemen gambar untuk interaksi yang lebih baik dan sederhana.
    - **KeyFrame**: Untuk membuat animasi dengan mengatur perubahan bertahap pada elemen.
----
 
 ## 🌐Cara mengakses Website AkarJaga melalui Desktop
 
@@ -55,7 +56,9 @@ Halaman Web yang dapat Anda Lihat:
    - Anda akan diarahkan ke halaman footer yang berisikan sosial media AkarJaga.
 
 ## 🌐Cara mengakses Website AkarJaga melalui Mobile
-### Akses link berikut: https://larasati14.github.io/Kelompok4_AkarJaga_UTS/
+Akses link berikut: 
+- *https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+
 Link di atas dapat anda akses melalui tampilan mobile, fungsi dari setiap menu pada navigasi bar yang ada di tampilan mobile sama dengan navigasi bar yang ada di tampilan desktop. Perbedaan yang terlihat hanya letak dari setiap elemen pada website saja yang berubah, elemen yang bertambah hanya tombol menu yang berada pada ujung kanan atas. Tombol menu tersebut hanya muncul pada tampilan mobile saja.
 
      
